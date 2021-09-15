@@ -1,1 +1,2 @@
-# ComputerGraphics-mini-project
+# Computer Graphics mini project
+
